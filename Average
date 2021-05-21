@@ -1,0 +1,14 @@
+A=int (input ("enter a value"))
+B=int(input ("enter b value"))
+C=int(input ("enter c value"))
+ Total=A+B+C
+print ('sum=',Total)
+Avg=Total/3
+print('Average='Avg)
+
+Output:
+enter a value 1
+enter b value 2
+enter c value 3
+sum=6
+Average=2
