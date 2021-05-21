@@ -2,9 +2,9 @@ A=int (input ("enter a value"))
 B=int(input ("enter b value"))
 C=int(input ("enter c value"))
  Total=A+B+C
-print ('sum=',Total)
+print ("sum=",Total)
 Avg=Total/3
-print('Average='Avg)
+print("Average=",Avg)
 
 Output:
 enter a value 1
